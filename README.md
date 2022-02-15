@@ -45,7 +45,7 @@
 ## 🚀 About Me
 Hello I am Rohit Ghadge
 
-## 🚀 Organization Logo
+## 🚀 Organization 
 ![download](https://user-images.githubusercontent.com/57706022/154009797-e7a296e6-4a12-4fc9-bd56-5ae7334c07a9.jpeg)
 
 
