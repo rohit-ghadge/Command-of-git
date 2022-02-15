@@ -1,3 +1,4 @@
+<h1 align="center">Hello 👋, Below are some basic Git Commands</h1>
 
 ## Usage/Examples
 
@@ -42,7 +43,7 @@
 
 ![git_Working](https://user-images.githubusercontent.com/57706022/154007752-477ce2e5-0510-4945-9a1e-0ca529c6449a.png)
 
-## 🚀 About Me
+## About Me 👋
 Hello I am Rohit Ghadge
 
 ## 🚀 Organization 
