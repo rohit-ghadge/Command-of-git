@@ -40,6 +40,7 @@
     
 ## Screenshots of Flow of Git
 
-![](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![git_Working](https://user-images.githubusercontent.com/57706022/154007752-477ce2e5-0510-4945-9a1e-0ca529c6449a.png)
+
 
 
