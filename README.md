@@ -37,3 +37,9 @@
 # git status
     The git status command displays the state of the working directory and
     the staging area.
+    
+## Screenshots of Flow of Git
+
+![](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+
